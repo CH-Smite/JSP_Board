@@ -43,7 +43,7 @@ public class FreeboardDAO {
 			PreparedStatement pstmt = con.prepareStatement(SQL);
 			rs = pstmt.executeQuery();
 			if (rs.next()) {
-				return rs.getInt(1) + 1; // 내림차순한 데이터(마지막 데이터)의 게시물 번호 + 1
+				return rs.getInt(1) + 1;
 			}
 			return 1; // 첫 번째 게시물인 경우
 		} catch (Exception e) {
