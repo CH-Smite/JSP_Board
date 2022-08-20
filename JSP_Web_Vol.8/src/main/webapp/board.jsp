@@ -87,8 +87,8 @@
 					<tr> <!-- 테스트 데이터 -->
 				</tbody>
 			</table>
-			<a href="write.jsp" class="btn btn-primary pull-right">글 작성</a>
 		</div>
+		<a href="write.jsp" class="float-right btn btn-primary">글 작성</a>
 	</div> <!-- 게시판 컨테이너 -->
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script> <!-- jquery 참조하기 위함 -->
 	<script src="js/bootstrap.js"></script> <!-- bootstarp.js 파일 참조하기 위함 -->
