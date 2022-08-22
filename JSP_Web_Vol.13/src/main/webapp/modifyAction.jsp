@@ -40,7 +40,7 @@
 			PrintWriter script = response.getWriter();
 			script.println("<script>");
 			script.println("alert('권한이 없습니다.')");
-			script.println("location.href = 'login.jsp'");
+			script.println("location.href = 'board.jsp'");
 			script.println("</script>");
 		} else {
 			if (request.getParameter("boardTitle") == null || request.getParameter("boardContent") == null
