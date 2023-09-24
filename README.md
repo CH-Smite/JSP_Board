@@ -38,5 +38,3 @@
 <br><br>
 ## 🔗 블로그
 1. [velog](https://velog.io/@ch_dev)
-
-2. [Tistory](https://go-ahead.tistory.com/)
