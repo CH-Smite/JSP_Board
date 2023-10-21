@@ -1,5 +1,5 @@
-# 💥 우당탕탕 JSP_Web
-우당탕탕 JSP_Web의 Git Repository
+# 💥 study-jsp-backend
+JSP_Web의 Git Repository
 <br><br>
 ## 🌈 Index   
 * [💥 우당탕탕 JSP_Web  ](#-우당탕탕-JSP_Web)
