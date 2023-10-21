@@ -2,10 +2,10 @@
 JSP_Web의 Git Repository
 <br><br>
 ## 🌈 Index   
-* [💥 우당탕탕 JSP_Web  ](#-우당탕탕-JSP_Web)
+* [💥 JSP_Web  ](#-JSP_Web)
 * [🌈 Index](#-Index)
 * [👨‍💻 개발 환경](#-개발-환경)
-* [📖 우당탕탕 JSP_Web board](#-우당탕탕-JSP_Web-board)
+* [📖 JSP_Web board](#-JSP_Web-board)
 * [🔗 블로그](#-블로그)
 <br><br>
 ## 👨‍💻 개발 환경
@@ -15,7 +15,7 @@ JSP_Web의 Git Repository
 📣 **DB : Mysql 5.7.18** <br>
 📣 **FE Framework: Bootstrap v4.6.2** <br>
 <br><br>
-## 📖 우당탕탕 JSP_Web board
+## 📖 JSP_Web board
 | Vol | Git  | 내용 |
 | ------ | -- |----------- |
 | 0 | ❌ | 환경 구성 (velog)         |
