@@ -1,5 +1,5 @@
 # 💥 study-jsp-backend
-JSP_Web의 Git Repository
+JSP_Web Git Repository
 <br><br>
 ## 🌈 Index   
 * [💥 JSP_Web  ](#-JSP_Web)
